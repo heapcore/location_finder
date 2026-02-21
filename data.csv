@@ -1,0 +1,9 @@
+Name,Category,X,Y,Z,Timestamp
+Point A,alpha,120,80,30,1678886400
+Point B,alpha,150,90,40,1678886460
+Point C,beta,200,120,60,1678886520
+Point D,beta,240,140,80,1678886580
+Point E,gamma,300,170,110,1678886640
+Point F,alpha,90,60,20,1678886700
+Point G,beta,110,70,35,1678886760
+Point H,gamma,290,165,105,1678886820
